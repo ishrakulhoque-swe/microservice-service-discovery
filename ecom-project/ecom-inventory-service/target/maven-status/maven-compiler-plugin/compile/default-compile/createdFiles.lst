@@ -1,0 +1,6 @@
+com/ecom/inventory/ecom_inventory_service/entity/Inventory.class
+com/ecom/inventory/ecom_inventory_service/EcomInventoryServiceApplication.class
+com/ecom/inventory/ecom_inventory_service/repository/InventoryRepository.class
+com/ecom/inventory/ecom_inventory_service/entity/Inventory$InventoryBuilder.class
+com/ecom/inventory/ecom_inventory_service/service/InventoryService.class
+com/ecom/inventory/ecom_inventory_service/controller/InventoryController.class

@@ -1,0 +1,5 @@
+/Users/ishrakulhoque/Springboot-Microservices/microservice-communication/ecom-project/ecom-inventory-service/src/main/java/com/ecom/inventory/ecom_inventory_service/EcomInventoryServiceApplication.java
+/Users/ishrakulhoque/Springboot-Microservices/microservice-communication/ecom-project/ecom-inventory-service/src/main/java/com/ecom/inventory/ecom_inventory_service/controller/InventoryController.java
+/Users/ishrakulhoque/Springboot-Microservices/microservice-communication/ecom-project/ecom-inventory-service/src/main/java/com/ecom/inventory/ecom_inventory_service/entity/Inventory.java
+/Users/ishrakulhoque/Springboot-Microservices/microservice-communication/ecom-project/ecom-inventory-service/src/main/java/com/ecom/inventory/ecom_inventory_service/repository/InventoryRepository.java
+/Users/ishrakulhoque/Springboot-Microservices/microservice-communication/ecom-project/ecom-inventory-service/src/main/java/com/ecom/inventory/ecom_inventory_service/service/InventoryService.java
